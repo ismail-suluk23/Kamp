@@ -26,6 +26,8 @@ namespace DegerVeReferansTipler
 
             //int ,decimel,float ,double,bool(0,1) = deger tip
 
+
+
         }
     }
 }
