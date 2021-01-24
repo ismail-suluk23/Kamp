@@ -9,6 +9,7 @@ namespace OOP3
             Console.WriteLine("Dosyaya Loglandı");
         }
 
+
     }
     
 }
